@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+@import 'tailwindcss';
+
+@theme {
+	--font-sans: 'Albert Sans', sans-serif;
+
+	--color-eco-blue: #2b47a6;
+	--color-eco-mid-blue: #7897ff;
+	--color-eco-light-blue: #98b0ff;
+	--color-eco-lightest-blue: #d3ddff;
+	--color-eco-white: #eef0f9;
+	--color-eco-green: #c5e6a8;
+	--color-eco-dark: #282828;
+
+	--radius-panel: 10px;
+}
+
+@layer base {
+	body {
+		@apply bg-white font-sans text-black tracking-wide antialiased;
+	}
+}

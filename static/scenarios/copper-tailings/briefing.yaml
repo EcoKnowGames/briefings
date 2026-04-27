@@ -1,0 +1,49 @@
+info_card:
+  title: What are "Mine Tailings"?
+  image: tailsite.jpg
+  body: |
+    The toxic waste material left over after the valuable metals have been extracted.
+
+    In this case, from extracting Copper Ore.
+
+entity_descriptions:
+  CitricAcid: |
+    *A new discovery!* Citric acid, the same thing that's in soft drinks like Sprite, can actually help leach out heavy metals from polluted ground.
+  VetiverGrass: |
+    Vetiver grass is known for its ability to tolerate heavy metals in soil, and can help stabilise soil to prevent erosion. It can work in conjunction with Citric Acid.
+  NativePlants: |
+    Benguet Pine won't tolerate heavy metals in the soil, so having this around is a clear sign that soil is in a good condition.
+  Fish: |
+    These fish will help filter out heavy metals from the water and encourage more sensitive fish species to return to previously contaminated waters.
+
+watch_out:
+  - entity: HeavyMetal
+    description: This is what you need to clean up, the toxic run off from the copper mine tailsite.
+  - icon: currency
+    name: Overspending
+    description: Spending too much too early can leave you short on funds later, or mean you miss your Objectives.
+
+why_this_matters: |
+  This scenario is based on real environmental challenges faced by communities near mining operations in the Philippines and around the world. Tailings dam failures are one of the most significant sources of heavy metal contamination, affecting soil, water, and the livelihoods of local people.
+
+  Phytoremediation — using plants like Vetiver Grass to absorb contaminants — is an active area of scientific research. It offers a lower-cost, more sustainable alternative to conventional remediation, but requires careful planning and long-term commitment. The trade-offs you encounter in this game reflect real dilemmas facing environmental managers.
+
+  The exciting new development is the use of Citric Acid in high concentrations — this can be used to help speed up soil regeneration. This is abundant, low cost and is found in the same drinking sodas we enjoy on a regular basis, like Sprite.
+
+  By playing this scenario, you're engaging with the same mathematical models (Lotka-Volterra population dynamics) that ecologists use to study species interactions and ecosystem recovery.
+
+  **Your decisions mirror the choices real stakeholders must make when balancing environmental restoration with limited budgets and community expectations.**
+
+further_reading:
+  - title: Phytoremediation
+    description: How plants are used to remove pollutants from contaminated soil, water, and air.
+    url: https://en.wikipedia.org/wiki/Phytoremediation
+  - title: Vetiver Grass System
+    description: The remarkable grass used worldwide for erosion control and heavy metal absorption.
+    url: https://en.wikipedia.org/wiki/Vetiver
+  - title: Tailings Dams & Mining Waste
+    description: Understanding how mining waste is stored and what happens when containment fails.
+    url: https://en.wikipedia.org/wiki/Tailings_dam
+  - title: Lotka-Volterra Equations
+    description: The mathematical models behind the population dynamics in EcoKnow.
+    url: https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations

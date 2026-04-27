@@ -1,0 +1,23 @@
+info_card:
+  title: What is Tallgrass Prairie?
+  image: tallgrass-prairie.jpg
+  body: |
+    Once covering over 170 million acres of North America, tallgrass prairie is one of the most endangered ecosystems on Earth. Less than 4% remains today, lost mainly to agriculture.
+
+    These grasslands depend on a diverse mix of native species to stay healthy. When invasive plants like purple loosestrife take hold, they can quickly displace the natives that wildlife depends on.
+
+entity_descriptions:
+  big_bluestem: |
+    A tall, warm-season prairie grass that can grow over 2 metres high. It's one of the dominant species of the tallgrass prairie and provides excellent habitat for wildlife.
+  switchgrass: |
+    A hardy native grass used for erosion control and as a biofuel crop. It establishes quickly and can tolerate a wide range of soil conditions.
+  little_bluestem: |
+    A medium-height bunchgrass recognised by its distinctive blue-green stems that turn bronze-red in autumn. It thrives in dry, well-drained soils.
+  wild_rye: |
+    A cool-season grass that establishes faster than most native grasses. It provides early ground cover and helps suppress weeds while slower species take hold.
+  prairie_dropseed: |
+    A fine-textured, slow-growing grass prized for its delicate seed heads and sweet fragrance. Once established, it's extremely drought-tolerant and long-lived.
+  purple_loosestrife: |
+    *An invasive wetland plant* that spreads aggressively, crowding out native species. Each plant can produce millions of seeds per year. You can harvest it but not introduce it.
+  corn: |
+    A fast-growing crop that competes for resources with native grasses. It can be harvested for income but may disrupt the balance of the prairie ecosystem.

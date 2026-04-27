@@ -1,0 +1,41 @@
+tag: External Scenario Briefing
+
+play:
+  url: https://ecoknowgames.github.io/chesapeake_play.html
+  label: Play Chesapeake Play!
+
+situation: |
+  You are a **waterman** on Maryland's Chesapeake Bay, working a livelihood that has supported families and communities for generations.
+
+  The Bay's iconic **blue crab** is your catch — but the population is fragile, and the rules around how you fish it are strict. Every season you face the same trade-off: play it safe with **legal pots** that respect the regulations, or risk it with **cheaper illegal pots** that could double your earnings... or wipe out your gear if a patrol boat finds them.
+
+gameplay_summary: |
+  Over <strong>8 rounds</strong>, with a starting budget of <strong>12,000 credits</strong>, your goal is to <strong>earn 200,000</strong> while keeping the blue crab population <strong>above 20,000 for at least 6 rounds</strong>.
+
+info_card:
+  title: What is a "Blue Crab"?
+  body: |
+    The Chesapeake blue crab (Callinectes sapidus) is the bay's most iconic species and the foundation of Maryland's commercial fishery.
+
+    Crabs move through four life stages — megalopae, small, large, and adult. Legal pots only catch the larger stages, protecting young crabs so the population can recover. Illegal pots catch every life stage indiscriminately.
+
+actions_intro: |
+  Each round you can **buy pots**, **place** them on tiles across the Bay, **harvest** crabs, and **sell** your catch.
+
+  *Legal pots* are expensive but carry no risk. *Illegal pots* are cheaper and catch more — but if a patrol boat finds even one on a tile, **every pot on that tile is destroyed** and your catch is confiscated.
+
+why_this_matters: |
+  The blue crab fishery is a real-world balancing act between livelihood, regulation, and conservation. Maryland's Department of Natural Resources sets size limits, season dates, and pot regulations precisely because unchecked harvesting — especially of juveniles — can collapse the population for everyone.
+
+  This scenario is built on a real population model from Miller's 2001–2003 research, using Leslie matrix mathematics to simulate how blue crabs reproduce, survive, and transition between life stages in the Chesapeake Bay.
+
+further_reading:
+  - title: Maryland Blue Crab
+    description: Maryland Department of Natural Resources overview of the blue crab fishery, regulations, and stock assessment.
+    url: https://dnr.maryland.gov/fisheries/Pages/blue-crab/index.aspx
+  - title: Chesapeake Bay Program — Blue Crabs
+    description: How blue crabs fit into the wider Chesapeake Bay ecosystem and why the population matters.
+    url: https://www.chesapeakebay.net/issues/whats-at-risk/blue-crabs
+  - title: Leslie Matrix Population Models
+    description: The mathematical model behind the simulation — how age-structured populations are tracked over time.
+    url: https://en.wikipedia.org/wiki/Leslie_matrix
